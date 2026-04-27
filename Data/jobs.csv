@@ -1,0 +1,11 @@
+Job_Title,Location,Salary_LPA,Skills,Experience_Level
+Data Analyst,Mumbai,5.0,"Python, SQL, Excel",Entry
+Data Analyst,Bangalore,6.0,"SQL, Power BI, Excel",Entry
+Business Analyst,Delhi,7.0,"Excel, SQL, Tableau",Mid
+Data Scientist,Hyderabad,10.0,"Python, ML, SQL",Mid
+Data Analyst,Pune,4.5,"Excel, SQL",Entry
+Junior Data Analyst,Chennai,3.5,"Excel, Python",Fresher
+Data Analyst,Mumbai,6.5,"Python, SQL, Power BI",Entry
+Data Engineer,Bangalore,9.0,"Python, SQL, Spark",Mid
+Data Analyst,Delhi,5.5,"SQL, Excel",Entry
+Business Analyst,Pune,7.5,"Tableau, Excel",Mid
