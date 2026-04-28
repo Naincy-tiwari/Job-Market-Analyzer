@@ -1,33 +1,36 @@
-# 📊 Job Market Analyzer (India)
+Job Market Analysis 
 
-## 🔍 Project Overview
-This project analyzes job market trends in India for data-related roles such as Data Analyst, Business Analyst, and Data Scientist.
+🔍 Objective
 
-## 🎯 Objectives
-- Identify in-demand skills
-- Analyze salary trends
-- Understand job distribution by location
-- Compare experience levels
+Analyze job market trends for Data Analyst roles using real-world dataset.
 
-## 🛠️ Tools Used
-- Python (Pandas, NumPy)
-- Matplotlib & Seaborn
-- Jupyter Notebook
+🛠️ Tools Used
 
-## 📂 Dataset
-The dataset was manually created and cleaned to simulate real-world job market data.
+* Python (Pandas, Matplotlib)
+* SQL (pandasql)
+* Jupyter Notebook
 
-## 📊 Key Insights
-- Python and SQL are the most in-demand skills
-- Major job locations: Bangalore, Mumbai, Delhi
-- Entry-level jobs dominate the dataset
-- Salary increases with experience level
+📊 Key Insights
 
-## 📸 Visualizations
-![Top Skills](visuals/top_skills.png)
+1. Top Hiring Locations
 
-## 🚀 Conclusion
-This project demonstrates data cleaning, analysis, and visualization skills using Python.
+* New York, NY has the highest number of job openings
+* San Francisco and Texas also show strong demand
 
-## 👩‍💻 Author
-Your Name
+2. Top Industries Hiring
+
+* Information Technology sector dominates hiring
+* Healthcare and Finance sectors are also significant
+
+ 3. Salary Analysis
+
+* Average salary for Data Analyst roles is competitive
+* Higher salaries are mostly in metro cities
+
+📁 Dataset
+
+* Real-world dataset of 2000+ job listings
+
+ 🚀 Conclusion
+
+The project highlights demand trends in the data analyst job market and helps identify high-opportunity locations and industries.
