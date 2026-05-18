@@ -1,16 +1,16 @@
 Job Market Analysis 
 
-🔍 Objective
+Objective
 
 Analyze job market trends for Data Analyst roles using real-world dataset.
 
-🛠️ Tools Used
+Tools Used
 
 * Python (Pandas, Matplotlib)
 * SQL (pandasql)
 * Jupyter Notebook
 
-📊 Key Insights
+Key Insights
 
 1. Top Hiring Locations
 
@@ -27,10 +27,10 @@ Analyze job market trends for Data Analyst roles using real-world dataset.
 * Average salary for Data Analyst roles is competitive
 * Higher salaries are mostly in metro cities
 
-📁 Dataset
+Dataset
 
 * Real-world dataset of 2000+ job listings
 
- 🚀 Conclusion
+ Conclusion
 
 The project highlights demand trends in the data analyst job market and helps identify high-opportunity locations and industries.
